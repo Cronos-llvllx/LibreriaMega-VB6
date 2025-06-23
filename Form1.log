@@ -1,0 +1,10 @@
+Line 173: Class MSComctlLib.ListView of control list_libros was not a loaded control class.
+Line 179: The property name _ExtentX in list_libros is invalid.
+Line 180: The property name _ExtentY in list_libros is invalid.
+Line 181: The property name View in list_libros is invalid.
+Line 182: The property name LabelWrap in list_libros is invalid.
+Line 183: The property name HideSelection in list_libros is invalid.
+Line 184: The property name FullRowSelect in list_libros is invalid.
+Line 185: The property name GridLines in list_libros is invalid.
+Line 186: The property name _Version in list_libros is invalid.
+Line 191: The property name NumItems in list_libros is invalid.
